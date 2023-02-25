@@ -7,4 +7,4 @@ Palíndromos são palavras que se escritas ao contrário são a mesma coisa do q
 
 Como o programa funciona?
 
-Ele verifica se letra do inicio da string vai ser igual a do final se não for retorna false, assim se escrevermos carro ele retorna false mas se escrevemos carro orrac ele retorna true pelo motivo de que o fim é igual ao começo.
+A verificação é feita a cada letra do "inicio" e cada letra do  "final" até se encontrarem se durante o trajeto ele encontrar alguma letra no "inicio" que não corresponde ao "final" retorna false e no fim do processo se nenhuma letra foi encontrada de diferente ele retorna true, assim se escrevermos carro ele retorna false mas se escrevemos carro orrac ele retorna true pelo motivo de que o fim é igual ao começo.
